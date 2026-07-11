@@ -1,8 +1,8 @@
 ```ini
 [navneet@github]
-Role = Building agentic AI systems, RAG pipelines, and full stack products
-Current = AI Product Developer @ Lillup (San Francisco, remote)
-Focus = AI/ML Engineer, Applied AI, Forward Deployed Engineer
+Navneet Agrawal
+AI/ML Engineer · Applied AI · Forward Deployed Engineer
+Building agentic AI systems, RAG pipelines, and full stack products
  
 [languages]
 Programming = Python, JavaScript, SQL, C++
